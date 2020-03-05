@@ -1,0 +1,2 @@
+sudo yum -y install jq
+curl http://169.254.169.254/latest/meta-data/ | jq --raw-input . | jq --slurp .
