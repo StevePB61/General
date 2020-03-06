@@ -1,0 +1,3 @@
+Using terraform, 3 tier environment is created.
+
+Please note this is work in progress...
